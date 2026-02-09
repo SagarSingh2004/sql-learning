@@ -14,6 +14,3 @@ insert into departments(department_id, department_name, manager) values
 	(102, 'HR', 'Neha'),
 	(103, 'Finance', 'Rakesh'),
 	(104, 'Sales', 'Anjali');
-
---retrieving the table
-select * from departments;

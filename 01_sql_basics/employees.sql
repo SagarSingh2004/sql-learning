@@ -23,3 +23,6 @@ insert into employees(name, department, job_role, salary, join_date) Values
 	('Anjali', 'Sales', 'Sales Executive', 42000, '2023-01-12'),
 	('Mohit', 'Sales', 'Sales Manager', 70000, '2020-04-30'),
 	('Priya', 'IT', 'Data Analyst', 62000, '2021-12-05');
+
+--retrieving the table
+select * from employees;
