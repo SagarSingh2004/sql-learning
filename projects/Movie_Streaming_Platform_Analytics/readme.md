@@ -129,10 +129,10 @@ The ER diagram provides a clear blueprint of the database design before running 
 
 ## Project Structure
 Movie_Streaming_Platform_Analytics/
-│
-├── create_table.sql
-├── insert_data.sql
-├── analytics_query.sql
-├── er_diagram.png
-├── Movie_Streaming_Platform_Analytics_Project_Report.docx
-└── README.md
+
+- create_table.sql
+- insert_data.sql
+- analytics_query.sql
+- er_diagram.png
+- Movie_Streaming_Platform_Analytics_Project_Report.docx
+- README.md
